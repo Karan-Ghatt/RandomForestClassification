@@ -1,0 +1,27 @@
+State
+International plan
+Voice mail plan
+Churn
+state_numeric
+Area code
+Account length
+International plan_numeric
+Voice mail plan numeric
+Number vmail messages
+Total day minutes
+Total day calls
+Total day charge
+Total eve minutes
+Total eve calls
+Total eve charge
+Total night minutes
+Total night calls
+Total night charge
+Total intl minutes
+Total intl calls
+Total intl charge
+Tota all miniutes
+Total all calls
+Total all charges
+Customer service calls
+churn_numeric
